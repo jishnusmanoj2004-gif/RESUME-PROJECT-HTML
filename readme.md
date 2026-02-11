@@ -27,6 +27,12 @@ This project is useful for beginners to practice basic HTML structure and layout
 * Skills list
 * Projects section
 * Simple and clean resume layout
+
+
+
+[live](https://jishnusmanoj2004-gif.github.io/RESUME-PROJECT-HTML/)
+
+
 ![img](./Screenshot%202026-02-11%20102354.png)
 
 ---
