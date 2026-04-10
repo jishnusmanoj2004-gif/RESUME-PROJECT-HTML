@@ -1,88 +1,88 @@
 
 # Resume Website (HTML)
 
-## 📄 Project Description
+        ## 📄 Project Description
 
-This is a simple personal resume website created using **HTML** and **Font Awesome icons**.
-It displays personal details, contact information, skills, education, and projects in a clean format.
+        This is a simple personal resume website created using **HTML** and **Font Awesome icons**.
+        It displays personal details, contact information, skills, education, and projects in a clean format.
 
-This project is useful for beginners to practice basic HTML structure and layout.
+        This project is useful for beginners to practice basic HTML structure and layout.
 
----
+        ---
 
-## 🛠️ Technologies Used
+        ## 🛠️ Technologies Used
 
-* HTML5
-* Font Awesome (for icons)
-* Google Maps Embed
+        * HTML5
+        * Font Awesome (for icons)
+        * Google Maps Embed
 
----
+        ---
 
-## ✨ Features
+        ## ✨ Features
 
-* Profile photo section
-* Contact information with icons
-* Google Maps location embed
-* Education table
-* Skills list
-* Projects section
-* Simple and clean resume layout
-
-
-
-[live](https://jishnusmanoj2004-gif.github.io/RESUME-PROJECT-HTML/)
+        * Profile photo section
+        * Contact information with icons
+        * Google Maps location embed
+        * Education table
+        * Skills list
+        * Projects section
+        * Simple and clean resume layout
 
 
-![img](./Screenshot%202026-02-11%20102354.png)
 
----
+        [live](https://jishnusmanoj2004-gif.github.io/RESUME-PROJECT-HTML/)
 
-## 📁 Project Structure
 
-```
-resume-project/
-│
-├── index.html
-└── README.md
-```
+        ![img](./Screenshot%202026-02-11%20102354.png)
 
----
+        ---
 
-## 🚀 How to Run the Project
+        ## 📁 Project Structure
 
-1. Download or clone the project.
-2. Open `index.html` in any web browser.
-3. The resume will display in your browser.
+        ```
+        resume-project/
+        │
+        ├── index.html
+        └── README.md
+        ```
 
----
+        ---
 
-## 📝 Future Improvements
+        ## 🚀 How to Run the Project
 
-* Add CSS for better design and layout
-* Make the resume mobile responsive
-* Add Tailwind CSS or Bootstrap styling
-* Add real project links instead of localhost
-* Improve typography and spacing
+        1. Download or clone the project.
+        2. Open `index.html` in any web browser.
+        3. The resume will display in your browser.
 
----
+        ---
 
-## 👨‍💻 Author
+        ## 📝 Future Improvements
 
-**Name:** John Wick
-**Role:** Learning Full Stack Development
-**Location:** Idukki, Kerala
+        * Add CSS for better design and layout
+        * Make the resume mobile responsive
+        * Add Tailwind CSS or Bootstrap styling
+        * Add real project links instead of localhost
+        * Improve typography and spacing
 
----
+        ---
 
-## 📌 Note
+        ## 👨‍💻 Author
 
-This project is created for learning and practice purposes.
+        **Name:** John Wick
+        **Role:** Learning Full Stack Development
+        **Location:** Idukki, Kerala
 
----
+        ---
 
-If you want, I can also:
+        ## 📌 Note
 
-✅ Create a styled CSS version
-✅ Add Tailwind CSS design
-✅ Convert this into a job-ready portfolio resume layout
-✅ Fix all grammar automatically in your resume text
+        This project is created for learning and practice purposes.
+
+        ---
+
+        If you want, I can also:
+
+        ✅ Create a styled CSS version
+        ✅ Add Tailwind CSS design
+        ✅ Convert this into a job-ready portfolio resume layout
+        ✅ Fix all grammar automatically in your resume text
