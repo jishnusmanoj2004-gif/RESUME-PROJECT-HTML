@@ -33,7 +33,7 @@
         [live](https://jishnusmanoj2004-gif.github.io/RESUME-PROJECT-HTML/)
 
 
-        ![img](./Screenshot%202026-02-11%20102354.png)
+        ![img](./2026.png)
 
         ---
 
